@@ -45,14 +45,5 @@ INSERT INTO usuarios (nome, email, idade) VALUES
 ('Carlos Pereira', 'carlos@yahoo.com', 30),
 ('Marina Lima', 'marina@outlook.com', 28);
 
-💡 Como Usar
-
-Clone este repositório:
-git clone https://github.com/DLP78/sistema-cadastro-mysql.git
-👨‍💻 Autor
-
-Desenvolvido por Daniel Proton
-🎓 Aluno de Análise e Desenvolvimento de Sistemas - Anhanguera Betim (EAD)
-📅 2025
 
 
